@@ -24,7 +24,7 @@ p{
 }
 .boxed{
     width: 600px;
-    margin: 0 auto;
+    margin: auto;
 }
 #footertext{
     font-family: 'Poiret One';
