@@ -54,10 +54,10 @@ a:active {
 }
 #footer{
     background-color: #0033CC;
-    height: 200px;
+    height: 175px;
     width: auto;
-    position: fixed;
     position: absolute;
     bottom: 0;
     left: 0;
+    position: fixed;
 }
