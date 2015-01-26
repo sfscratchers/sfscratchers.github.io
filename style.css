@@ -53,5 +53,7 @@ a:active {
     color: black;
 }
 #footer{
-    
+    background-color: #0033CC;
+    height: 200px;
+    width: auto;
 }
