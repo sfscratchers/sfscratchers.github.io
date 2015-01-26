@@ -1,10 +1,57 @@
-html { 
+html{ 
     background-color:#19A3FF; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
-p {
-    font-family: 'Poiret One'
+p{
+    font-family: 'Poiret One';
+    text-align:center;
+    word-wrap: normal;
+    font-size:1.1em;
+    color:white;
+}
+#title{
+    font-family:'Comfortaa';
+    text-align:center;
+    color:white;
+}
+#intro-intro{
+    font-family:'Comfortaa';
+    text-align:center;
+    color:white;
+}
+.boxed{
+    width: 600px;
+    margin: 0 auto;
+}
+#footertext{
+    font-family: 'Poiret One';
+    text-align:center;
+    word-wrap: normal;
+    font-size:1.1em;
+    color:white;
+}
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: gray;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
+#footer{
+    
 }
