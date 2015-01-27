@@ -62,3 +62,8 @@ a:active {
     left: 0;
     position: fixed;
 }
+#Spotlight{
+    font-family:'Poiret One';
+    text-align:center;
+    color:white;
+}
