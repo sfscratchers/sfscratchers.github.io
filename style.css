@@ -54,16 +54,20 @@ a:active {
 }
 #footer{
     background-color: #0033CC;
+    bottom: 0px;
+    margin: 0px;
+    padding: 20px;
     height: 100px;
     width: 100%;
-    margin: auto;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    position: fixed;
 }
 #Spotlight{
     font-family:'Poiret One';
     text-align:center;
     color:white;
+}
+iframe {
+    width:485px; 
+    height:402px;
+    margin: 0 auto;
+    display:block
 }
